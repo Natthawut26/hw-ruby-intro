@@ -5,6 +5,7 @@
 def sum arr
   # YOUR CODE HERE
   arr.sum
+  klnln
 end
 
 def max_2_sum arr
